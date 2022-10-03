@@ -1,3 +1,4 @@
 step 1: choose pizza place
 step 2: choose pizza
 step 3: order pizza
+step 4: pay for pizza
